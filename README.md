@@ -1,2 +1,1 @@
-# seminar
-Repository dedicated to my senior economics seminar
+![Part 1.pdf](https://github.com/Arthur-Langlois/seminar/files/8195173/Part.1.pdf)
