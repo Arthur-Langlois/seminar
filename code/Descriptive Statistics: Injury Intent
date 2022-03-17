@@ -1,0 +1,10 @@
+\begin{tabular}{llrrrr}
+\toprule
+{} &              Race &  count &  percent &  cumulative\_count &  cumulative\_percent \\
+\midrule
+0 &             White &   2569 &   57.965 &              2569 &              57.965 \\
+1 &  African American &   1439 &   32.468 &              4008 &              90.433 \\
+2 &   American Indian &    215 &    4.851 &              4223 &              95.284 \\
+3 &             Asian &    209 &    4.716 &              4432 &               100.0 \\
+\bottomrule
+\end{tabular}
